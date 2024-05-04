@@ -1,6 +1,6 @@
 #![allow(unused)]
 
-mod codec;
+mod parser;
 mod reader;
 
 #[derive(Debug, PartialEq, Eq)]
